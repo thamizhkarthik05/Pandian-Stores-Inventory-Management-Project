@@ -1,6 +1,8 @@
 // src/pages/Dashboard/Dashboard.jsx
 // Main dashboard page showing overview statistics
 
+// Pushed by Kaarthik 23MIS0050
+
 import React from 'react';
 import { Package, FileText, BarChart3 } from 'lucide-react';
 import SummaryCard from '../../components/dashboard/Summary';
